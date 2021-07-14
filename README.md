@@ -1,3 +1,5 @@
+[![Build Status](https://www.travis-ci.com/CguarinoNJIT/CalculatorProgram.svg?branch=main)](https://www.travis-ci.com/CguarinoNJIT/CalculatorProgram)
+
 # Project 2 
 ## Automated Unit Test 
 
