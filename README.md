@@ -9,3 +9,4 @@
 - Use the "unittest" library to automate the evaluation of the different calculator static methods. 
 - Have the program tested through Travis CI. 
 
+![TravisCIBuild_Project2](https://user-images.githubusercontent.com/85355712/125813579-b370cd7f-1474-45bb-a873-1892fdc7a98d.JPG)
